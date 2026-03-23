@@ -43,7 +43,7 @@
 - [✅] 4. Executar e acessar a aplicação Django
   - [✅] 4.1: Executar o servidor de desenvolvimento
   - [✅] 4.2: Testar a aplicação
-- [ ] Parte final. relatório
+- [✅] Parte final. relatório
 
 ### Parte 1: Preparação do projeto
 
